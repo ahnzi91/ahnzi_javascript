@@ -4,3 +4,4 @@
 
 - diff-class-object
 - promise
+- async-await
